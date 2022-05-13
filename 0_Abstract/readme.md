@@ -1,11 +1,3 @@
-## Introduction
-The project as the name suggests is based on Ultrasonic sensors.Ultrasonic sensors work by sending out a sound wave at a frequency above the range of human hearing. Our ultrasonic sensors, like many others, use a single transducer to send a pulse and to receive the echo. The sensor determines the distance to a target by measuring time lapses between the sending and receiving of the ultrasonic pulse.
+A windscreen wiper, sometimes known as a windshield wiper or wiper blade in American English, is a device that cleans the front window of a car of rain, snow, ice, washer fluid, water, and/or debris. Almost all motor vehicles, including automobiles, trucks, buses, train locomotives, and cabin watercraft—as well as some aircraft—have one or more of these wipers, which are usually required by law.A wiper is made up of a metal arm with one end pivoting and the other end having a long rubber blade attached. A motor, usually an electric motor, drives the arm, however pneumatic power is also utilised in some vehicles. The blade is swung back and forth across the glass, removing any water, any precipitation, or other obstructions to view. Speed is usually changeable on vehicles built after 1969, with various continuous speeds and often one or more interrupted settings. Many commercial cars employ one or more pantograph arms, while most personal autos use two synchronised radial-type arms.
 
-## High level Requirement
-* Atmega328
-* Ultrasonic sensor
-* display
-
-## Low Level Requirement
-* Turn ON
-* Turn OFF
+A windscreen washer system is also used on some vehicles to improve and broaden the wiper(s) function to dry or icy conditions. Several well-placed nozzles spray water or antifreeze window washer fluid at the windscreen with this method. When utilised in conjunction with the wiper blades, this mechanism aids in the removal of dirt and dust from the windscreen.In this project I explain about how wiper works based on stm32, an ARM based Microcontroller
