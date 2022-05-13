@@ -56,5 +56,6 @@ The below tools and packages are needed to work with STM32 Controllers with Qemu
 
 ## Low Level Requirements:
 
-* ID	Description	Status (Implemented/ In Future)
-* LLR 1	Stepper Motor	Implemented
+| ID | Description | Status  |
+|-- | ------------ | ------- |
+| LLR 1 |Stepper Motor| Implemented |
