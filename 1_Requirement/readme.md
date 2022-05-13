@@ -1,60 +1,60 @@
-##Requirements
+## Requirements
 The below tools and packages are needed to work with STM32 Controllers with Qemu Support
 
-##Installable
+## Installable
 
-*GNU Toolchain
-*STM Cube IDE
+* GNU Toolchain
+* STM Cube IDE
 
-##Downloadable
+## Downloadable
 
-*Xpack Packages
-*Windows Build Tools
-*Open OCD
-*Qemu
+* Xpack Packages
+* Windows Build Tools
+* Open OCD
+* Qemu
 
-##Features
+## Features
 
-*Controlling of wiber control system using STM32 and Arm based microcontroller.
+* Controlling of wiber control system using STM32 and Arm based microcontroller.
 
-##Research
+## Research
 
-*Referred many STM32 based projects.
+* Referred many STM32 based projects.
 
-*Referred many e-sources for coding part.
+* Referred many e-sources for coding part.
 
-##The 4W's and a H
+## The 4W's and a H
 
-##WHAT
-*It is the controlling of car wiper system using the STM32.
+## WHAT
+* It is the controlling of car wiper system using the STM32.
 
-##WHY
-*The main objective of this project is to control the car wiper system in the car by using the LED.
+## WHY
+* The main objective of this project is to control the car wiper system in the car by using the LED.
 
-##WHO
-*It is used in the car or any other automobiles.
+## WHO
+* It is used in the car or any other automobiles.
 
-##WHERE
-*This project is mainly comes in use of Automobile industries.
+## WHERE
+* This project is mainly comes in use of Automobile industries.
 
-##HOW
-*This project is implemented using "Embedded C Program" based on Arm based microcontroller.
+## HOW
+* This project is implemented using "Embedded C Program" based on Arm based microcontroller.
 
-##SWOT ANALYSIS OF THE PROJECT
+## SWOT ANALYSIS OF THE PROJECT
 
-##STRENGTHS:
-*Easily Operating.
-*Platfrom Independant.
+## STRENGTHS:
+* Easily Operating.
+* Platfrom Independant.
 
-##WEAKNESS:
-*Controlling using WEB.
+## WEAKNESS:
+* Controlling using WEB.
 
-HIGH LEVEL REQUIREMENTS:
+## HIGH LEVEL REQUIREMENTS:
 
 ID	 Description	 Status (Implemented/In Future)
 HLR 1	 ULN2803 driver	 Implemented
 
-Low Level Requirements:
+## Low Level Requirements:
 
 ID	Description	Status (Implemented/ In Future)
 LLR 1	Stepper Motor	Implemented
