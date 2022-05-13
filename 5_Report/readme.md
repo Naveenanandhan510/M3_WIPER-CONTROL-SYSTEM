@@ -1,17 +1,17 @@
-##WIPER-CONTROL-SYSTEM
+## WIPER-CONTROL-SYSTEM
 
-##Abstract
+## Abstract
 
-*Wiper is an essential component that used to wipe raindrops or any water from the vehicle’s windscreen.The wipers are now available in the front and back window shields the of cars and many other automobiles.A wiper is made up of a metal arm with one end pivoting and the other end having a long rubber blade attached.The blade is swung back and forth across the glass, removing any water, any precipitation, or other obstructions to view.Nowadays the wiper speed is changeable and also we can give some delay for swung the blade so that it will automatically swung after a period of time.In this project i explain about the wiper control system by using the led,stm32 and arm based microcontroller.
+* Wiper is an essential component that used to wipe raindrops or any water from the vehicle’s windscreen.The wipers are now available in the front and back window shields the of cars and many other automobiles.A wiper is made up of a metal arm with one end pivoting and the other end having a long rubber blade attached.The blade is swung back and forth across the glass, removing any water, any precipitation, or other obstructions to view.Nowadays the wiper speed is changeable and also we can give some delay for swung the blade so that it will automatically swung after a period of time.In this project i explain about the wiper control system by using the led,stm32 and arm based microcontroller.
 
-##COMPONENTS
+## COMPONENTS
 
-*STM32
-*ARM based microcontroller
-*FLOWCHART
-*STEPPER
+* STM32
+* ARM based microcontroller
+* FLOWCHART
+* STEPPER
 
-##PROCEDURE
+## PROCEDURE
 
 *For the ignition of key position the Red LED is ON, if the user button is pressed and held for 2 secs
 
@@ -21,7 +21,7 @@
 
 *The Red LED is OFF, if the user button is pressed and held for 2 secs
 
-##Testing and Coding
+## Testing and Coding
 
 *Preferable Coding Software for Avr Coding is Microchip studio.
 
@@ -33,11 +33,11 @@
 
 *In CODE BLOCKS you can also RUN the program in both LINUX and WINDOWS.
 
-##CONCLUSION
+## CONCLUSION
 
 *Wiper system is controlled by using STM32 and ARM based microcontroller.
 
-##REFERENCE
+## REFERENCE
 
 *Referred push button to control the LED's of STM32.
 
