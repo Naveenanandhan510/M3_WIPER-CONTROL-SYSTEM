@@ -58,10 +58,15 @@ The below tools and packages are needed to work with STM32 Controllers with Qemu
 ## HIGH LEVEL REQUIREMENTS:
 | ID | Description | Status |
 | -- | ----------- | ------ |
-| HLR 1 | ULN2803 driver | Implemented |
+| HR_1 | Car is in ACC mode | Implemented | 
+| HR_2 | Car is in Ignition mode | Implemented |
+| HR_3 | Wiper turned on | Implemented | 
+| HR_4 | Wiper turned off | Implemented | 
 
-## Low Level Requirements:
-
-| ID | Description | Status  |
-|-- | ------------ | ------- |
-| LLR 1 |Stepper Motor| Implemented |
+## LOW LEVEL REQUIREMENTS
+| ID | Description | Status |
+| -- | ----------- | ------ |
+| LR_1 | Button pressed once for two seconds - ON LED RED | Implemented |
+| LR_2 | Button pressed once again times - OFF LED RED | Implemented |
+| LR_3 | Button two time - ON BLUE,GREEN,ORANGE | Implemented |
+| LR_4 | Buuton pressed again for two seconds - OFF ORANGE,GREEN,BLUE | Implemented |
