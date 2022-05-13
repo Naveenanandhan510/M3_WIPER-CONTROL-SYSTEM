@@ -51,10 +51,10 @@ The below tools and packages are needed to work with STM32 Controllers with Qemu
 
 ## HIGH LEVEL REQUIREMENTS:
 
-ID	 Description	 Status (Implemented/In Future)
-HLR 1	 ULN2803 driver	 Implemented
+* ID	 Description	 Status (Implemented/In Future)
+* HLR 1	 ULN2803 driver	 Implemented
 
 ## Low Level Requirements:
 
-ID	Description	Status (Implemented/ In Future)
-LLR 1	Stepper Motor	Implemented
+* ID	Description	Status (Implemented/ In Future)
+* LLR 1	Stepper Motor	Implemented
