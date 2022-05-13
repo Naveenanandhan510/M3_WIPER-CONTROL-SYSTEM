@@ -33,16 +33,6 @@
 
 * In CODE BLOCKS you can also RUN the program in both LINUX and WINDOWS.
 
-## CONCLUSION
-
-* Wiper system is controlled by using STM32 and ARM based microcontroller.
-
-## REFERENCE
-
-* Referred push button to control the LED's of STM32.
-
-* Surefed in internet regarding CODING.
-
 ## ADVANTAGES
 
 * It helps in saving money by switching off the irrigation system when it rains. This saves money by cutting off bills on electricity consumption.
@@ -54,3 +44,14 @@
 * Smart Wiper Control System uses infrared sensor which is implemented in the latest cars but it has few disadvantages.
 
 * The One is space occupied on the screen is small and the second (main) drawback is need of clear wiping on the windscreen, where the sensor is placed.
+
+## CONCLUSION
+
+* Wiper system is controlled by using STM32 and ARM based microcontroller.
+
+## REFERENCE
+
+* Referred push button to control the LED's of STM32.
+
+* Surefed in internet regarding CODING.
+
