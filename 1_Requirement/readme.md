@@ -49,6 +49,12 @@ The below tools and packages are needed to work with STM32 Controllers with Qemu
 ## WEAKNESS:
 * Controlling using WEB.
 
+## OPPORTUNITY:
+* It is a modern wave of approach,high use in modern days.
+
+## THREAD:
+* Sensor is damaged operation system is stopped.
+
 ## HIGH LEVEL REQUIREMENTS:
 | ID | Description | Status |
 | -- | ----------- | ------ |
